@@ -18,7 +18,8 @@ This project is to update an existing budget tracker application to allow for of
 
 ## Usage 
 This application will allow users to create new transactions whether it's a deposit or withdraw, with or without internet connection.<br>
-Please view deployed application on [Heroku](https://nw-budget-app.herokuapp.com/)<br>
+Please view deployed application on [Heroku](https://archanas-budget-tracker.herokuapp.com/)<br>
+![Screenshot](./public/assets/screenshot.png)
 
 
 ## Technologies 
